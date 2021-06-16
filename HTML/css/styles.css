@@ -1,0 +1,25 @@
+body{
+  background-color: #e2ebf7;
+}
+
+img{
+  height: 200px;
+  width: 200px;
+  border-radius: 100px;
+}
+
+h1{
+  color:#7366bf;
+}
+
+ h3{
+  color:#7366bf;
+}
+
+hr{
+  background-color:white;
+  border-top: none;
+  border-color: rgb(255, 1, 1);
+  border-width: 5px;
+}
+
